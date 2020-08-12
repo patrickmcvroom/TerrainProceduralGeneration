@@ -1,0 +1,25 @@
+﻿  TerrainGeneration.cpp
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(181,72): warning C4091:  'static ': ignored on left of 'buffer' when no variable is declared
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(182,46): warning C4091:  'static ': ignored on left of 'object' when no variable is declared
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(261,21): warning C4101:  'nrChannels': unreferenced local variable
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(326,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(332,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(333,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(334,55): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(335,66): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(355,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(393,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(424,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(448,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(472,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(337,6): warning C4101:  'a': unreferenced local variable
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(337,9): warning C4101:  'b': unreferenced local variable
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1109,11): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1110,11): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1115,10): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1116,10): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1139,17): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1140,17): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1145,17): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\TerrainGeneration.cpp(1146,17): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  TerrainShaderized.vcxproj -> C:\Users\mcvroomp\Desktop\McVroom-Procedural-Generation\McVroom Terrain\Debug\TerrainShaderized.exe
